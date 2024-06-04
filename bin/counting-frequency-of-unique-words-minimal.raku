@@ -1,5 +1,4 @@
 #!/usr/bin/env raku
-use v6.e.PREVIEW;
 
 sub MAIN {
     my %dict := bag $*IN.words;
